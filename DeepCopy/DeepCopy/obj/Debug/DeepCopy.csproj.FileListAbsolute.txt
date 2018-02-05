@@ -1,0 +1,6 @@
+c:\users\kira\documents\visual studio 2013\Projects\DeepCopy\DeepCopy\bin\Debug\DeepCopy.exe.config
+c:\users\kira\documents\visual studio 2013\Projects\DeepCopy\DeepCopy\bin\Debug\DeepCopy.exe
+c:\users\kira\documents\visual studio 2013\Projects\DeepCopy\DeepCopy\bin\Debug\DeepCopy.pdb
+c:\users\kira\documents\visual studio 2013\Projects\DeepCopy\DeepCopy\obj\Debug\DeepCopy.csprojResolveAssemblyReference.cache
+c:\users\kira\documents\visual studio 2013\Projects\DeepCopy\DeepCopy\obj\Debug\DeepCopy.exe
+c:\users\kira\documents\visual studio 2013\Projects\DeepCopy\DeepCopy\obj\Debug\DeepCopy.pdb
